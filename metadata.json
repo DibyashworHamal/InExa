@@ -1,0 +1,6 @@
+{
+  "name": "InExa",
+  "description": "Smart income and expense manager with AI insights and clean visual tracking tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
